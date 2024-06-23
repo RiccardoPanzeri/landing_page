@@ -52,7 +52,11 @@
 
 
 
-
+.bottom-header img{
+    border-radius: 25px;
+    border: bisque, solid;
+    border-style:outset;
+}
 
 
 a{
