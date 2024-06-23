@@ -1,0 +1,63 @@
+.header{
+    background-color: rgb(11, 11, 179);
+    color: bisque;
+    font-family: Roboto, sans-serif;
+    
+}
+
+.top-header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.bottom-header{
+    margin-top: 50px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    
+}
+
+.header-text-button{
+    
+    max-width: 400px;
+    min-width: 200px;
+    
+}
+
+.header-button{
+    
+    flex: 0;
+    font-family: roboto, sans-serif;
+    border-radius: 25px;
+    padding: 10px;
+    border: solid antiquewhite;
+    font-weight: 300;
+    background-color: rgba(128, 128, 128, 0.603);
+    color: antiquewhite;
+}
+
+.lista-link ul{
+    display:flex;
+    gap: 30px;
+    font-size: 12px;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    
+    
+}
+
+
+
+
+
+
+a{
+
+    text-decoration: none;
+    color: bisque
+    
+}
