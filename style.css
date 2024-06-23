@@ -56,8 +56,22 @@
     border-radius: 25px;
     border: bisque, solid;
     border-style:outset;
+    flex-shrink: 1;
 }
 
+.top-center{
+    display: flex;
+    justify-content: center;
+    font-family: roboto, sans-serif;
+   
+    
+}
+
+
+.center-text{
+    text-align: center;
+    max-width: 400px;
+}
 
 a{
 
@@ -65,3 +79,4 @@ a{
     color: bisque
     
 }
+
